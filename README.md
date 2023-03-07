@@ -1,2 +1,2 @@
 # weather
-weather-app using node js
+weathe-api
